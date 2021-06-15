@@ -1,2 +1,2 @@
 # LSST_mg_scale_forecasting
-Code containing a summer project that aims to investigate at which cosmological scales no more information can be obtained from constraint forecasts on modified gravity parameters
+This repositary contains code used over the course of a summer project. Here, the effect of cosmological scale on the amount of information that can be obtained from forecasted constraints is investigated. Specifically, the effect of the scale on the forecasted constraints of the modified gravity parameters mu_0 and sigma_0 which parameterise modifications to general relativity in the cosmological model used for this investigation.
